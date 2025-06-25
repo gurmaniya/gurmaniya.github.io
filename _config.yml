@@ -1,8 +1,0 @@
-title: Мой сайт
-description: Описание сайта
-baseurl: ""
-url: ""
-theme: minima
-plugins:
-  - jekyll-feed
-include: ['_pages']
